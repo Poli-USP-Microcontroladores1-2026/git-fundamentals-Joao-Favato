@@ -99,7 +99,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## Comments
 
-Awesome material!
+Awesome material!!!!
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
